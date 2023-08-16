@@ -333,6 +333,14 @@
 		{
 			"Name": "WorldPartitionHLODUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "GooglePAD",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
 		}
 	]
 }
